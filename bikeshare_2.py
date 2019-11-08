@@ -1,6 +1,7 @@
 """
 This program analyzes rideshare data for several cities and
 interactively displays important summary statistics for eachself.
+Developed by Patrick Rashidi
 """
 import time
 import pandas as pd
